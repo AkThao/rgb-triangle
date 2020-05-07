@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from random import choice, randint
 
 side_len = randint(5, 10) # Length of bottom row of triangle
