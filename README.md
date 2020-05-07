@@ -1,5 +1,5 @@
 # rgb-triangle
-Algorithm that prints an ASCII RGB triangle
+Algorithm that prints an ASCII RGB triangle:
 
 1. Start with a bottom row consisting of characters randomly chosen from the "RGB" triplet
 2. For each row on top, each character is calculated such that the current character and two below it make up the "RGB" triplet
